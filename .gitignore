@@ -1,0 +1,9 @@
+# installed bower packages
+bower_components
+
+# IDE project files
+.idea
+
+
+
+

@@ -1,0 +1,20 @@
+{
+  "name": "GooglePhotoLinker",
+  "authors": [
+    "Keith Bellamy <kbellamy@gmail.com>"
+  ],
+  "description": "Google Photo Linker",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
